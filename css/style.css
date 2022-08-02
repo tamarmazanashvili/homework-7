@@ -10,27 +10,27 @@
 
 @font-face {
     font-family: RedHatDisplay-Regular400 ;
-    src: url(fonts/RedHatDisplay-Regular400.ttf);
+    src: url(../fonts/RedHatDisplay-Regular400.ttf);
 }
 
 @font-face {
     font-family: RedHatDisplay-SemiBold600 ;
-    src: url(fonts/RedHatDisplay-SemiBold600.ttf);
+    src: url(../fonts/RedHatDisplay-SemiBold600.ttf);
 }
 
 @font-face {
     font-family: RedRose-Bold700 ;
-    src: url(fonts/RedRose-Bold700.ttf);
+    src: url(../fonts/RedRose-Bold700.ttf);
 }
 
 @font-face {
     font-family: RedRose-Regular400 ;
-    src: url(fonts/RedRose-Regular400.ttf);
+    src: url(../fonts/RedRose-Regular400.ttf);
 }
 
 @font-face {
     font-family: Rufina-Bold700 ;
-    src: url(fonts/Rufina-Bold700.ttf);
+    src: url(../fonts/Rufina-Bold700.ttf);
 }
 
 .active{
